@@ -43,7 +43,8 @@ http://localhost:5173
 🌐 Deployment on Vercel
 
 📸 Screenshot
-<img width="1906" height="552" alt="translation app" src="https://github.com/user-attachments/assets/d18a8a72-874a-401f-9e44-a1ffed29f5f3" />
+<img width="1906" height="552" alt="translation app" src="https://github.com/user-attachments/assets/dd2b20f3-8962-491f-8711-5dc874b1eb50" />
+
 
 📄 License
 This project is open-source under the MIT License.
