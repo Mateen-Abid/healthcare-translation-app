@@ -17,10 +17,7 @@ Built with **React**, **Tailwind CSS**, and the **Web Speech API**.
 ## 📸 Screenshots
 
 ### 🖥 Desktop View
-![Desktop Screenshot](screenshots/desktop-view.png)
-
-### 📱 Mobile View
-![Mobile Screenshot](screenshots/mobile-view.png)
+https://github.com/Mateen-Abid/healthcare-translation-app/blob/main/translation%20app.png
 
 *(Place your screenshots in the `/screenshots` folder and replace these filenames.)*
 
