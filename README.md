@@ -33,36 +33,17 @@ by converting speech to text, translating it in real time, and reading it aloud.
 git clone https://github.com/Mateen-Abid/healthcare-translation-app.git
 cd healthcare-translation-app
 2️⃣ Install dependencies
-bash
-Copy
-Edit
 npm install
 3️⃣ Run locally
-bash
-Copy
-Edit
 npm run dev
 App will run at:
 
 arduino
-Copy
-Edit
 http://localhost:5173
 🌐 Deployment on Vercel
-Push your project to GitHub
 
-Go to Vercel
-
-Click "New Project"
-
-Import your GitHub repository
-
-Click Deploy
-
-🎉 Done! Your live app link will be ready.
-
-📸 Screenshots
-Banner Example	Translation Interface
+📸 Screenshot
+<img width="1906" height="552" alt="translation app" src="https://github.com/user-attachments/assets/d18a8a72-874a-401f-9e44-a1ffed29f5f3" />
 
 📄 License
 This project is open-source under the MIT License.
