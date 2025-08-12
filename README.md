@@ -1,3 +1,73 @@
+# 🌐 Healthcare Translation App
+
+A **real-time multilingual speech translation app** designed for the healthcare industry,  
+built with **React**, **Tailwind CSS**, and the **Web Speech API**.
+
+This app allows **healthcare providers and patients** to communicate across languages instantly  
+by converting speech to text, translating it in real time, and reading it aloud.
+
+---
+
+## 🚀 Features
+- 🎤 **Speech-to-Text** with browser’s Speech Recognition API
+- 🌍 **Instant Translation** using MyMemory Translation API
+- 🔊 **Text-to-Speech** for translated output
+- 🖼 **Rotating Healthcare Banner** with smooth animations
+- 🎨 **Premium UI** using Tailwind CSS & animations
+- 📱 **Fully Responsive** for mobile, tablet, and desktop
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React (Vite or Create React App)
+- **Styling:** Tailwind CSS
+- **APIs:** Web Speech API, MyMemory Translation API
+- **Deployment:** Vercel
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Mateen-Abid/healthcare-translation-app.git
+cd healthcare-translation-app
+2️⃣ Install dependencies
+bash
+Copy
+Edit
+npm install
+3️⃣ Run locally
+bash
+Copy
+Edit
+npm run dev
+App will run at:
+
+arduino
+Copy
+Edit
+http://localhost:5173
+🌐 Deployment on Vercel
+Push your project to GitHub
+
+Go to Vercel
+
+Click "New Project"
+
+Import your GitHub repository
+
+Click Deploy
+
+🎉 Done! Your live app link will be ready.
+
+📸 Screenshots
+Banner Example	Translation Interface
+
+📄 License
+This project is open-source under the MIT License.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
