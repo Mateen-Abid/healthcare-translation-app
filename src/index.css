@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Make sure the gradient background fills the page */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, #00085e, #1f0353, #170261);
+  background-attachment: fixed;
+  color: white; /* ✅ All text is white by default */
+}
+
+/* Ensure form elements also have white text */
+select, option, input, textarea, button {
+  color: white;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+select option {
+  background-color: #00085e; /* Dark background for dropdown list */
+  color: white;
+}
+
+/* Custom animations */
+@layer utilities {
+  .animate-fadeIn {
+    animation: fadeIn 1s ease-in-out;
+  }
+  .animate-slideUp {
+    animation: slideUp 0.8s ease-out;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0 }
+  to { opacity: 1 }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 1s ease-in-out;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.8s ease-out;
+}
