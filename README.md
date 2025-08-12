@@ -19,9 +19,6 @@ Built with **React**, **Tailwind CSS**, and the **Web Speech API**.
 ### 🖥 Desktop View
 https://github.com/Mateen-Abid/healthcare-translation-app/blob/main/translation%20app.png
 
-*(Place your screenshots in the `/screenshots` folder and replace these filenames.)*
-
----
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, Tailwind CSS
